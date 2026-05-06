@@ -302,9 +302,9 @@ Description: TODO: the order quantity was greater than 100 so the backend does n
 
 ### Evidence 8.1: Architecture Diagram
 
-TODO: Embed your architecture diagram from `docs/`.
+TODO: ![alt text](PA44/arch2.png)
 
-Description: TODO: Confirm that it shows GitHub, App Service, Durable Function, AKS, ACI, Blob Storage, ACR, and IAM.
+Description: This diagram shows the complete pipeline from start to finish. The container registry acts as the single source of truth for all three container images. The managed identity provides the durable function with the precise permissions required to spawn the container instance. The app service receives continuous deployments directly from github
 
 ### Question 8.2: Service Selection
 
