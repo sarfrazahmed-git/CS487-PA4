@@ -15,11 +15,11 @@ Copy this file to <code style="color:#111827;background:#ddd6fe;padding:2px 4px;
 
 | Field | Value |
 |---|---|
-| Name | TODO |
-| Roll Number | TODO |
-| GitHub Repository URL | TODO |
-| Resource Group | `rg-sp26-TODO` |
-| Assigned Region | TODO: `uaenorth` or `ukwest` |
+| Name | Sarfraz Ahmed |
+| Roll Number | 26100145 |
+| GitHub Repository URL | https://github.com/sarfrazahmed-git/CS487-PA4 |
+| Resource Group | `rg-sp26-26100145` |
+| Assigned Region |`ukwest` |
 
 ## Evidence Rules
 
@@ -33,10 +33,9 @@ Copy this file to <code style="color:#111827;background:#ddd6fe;padding:2px 4px;
 ## Task 1: App Service Web App (15 points)
 
 ### Evidence 1.1: Forked Repository
+![My Logo](PA44/t1-git-repo.png)
 
-TODO: Embed screenshot of your forked GitHub repository.
-
-Description: TODO: Explain that this is your working fork and that it contains the PA4 starter structure.
+Description: image shows the repo forked into my github account.
 
 ### Evidence 1.2: App Service Overview
 
