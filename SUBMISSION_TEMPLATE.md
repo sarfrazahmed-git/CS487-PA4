@@ -93,7 +93,7 @@ Description: You can see all three of the images being pushed sucessfully.
 
 ### Evidence 3.1: Completed Function Code
 
-TODO: Link to your completed file: `[function_app.py](function-app/function_app.py)`.
+[function_app.py](function-app/function_app.py).
 
 Description: TODO: Summarize how your orchestrator chains validation and report generation.
 
